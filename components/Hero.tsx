@@ -13,8 +13,8 @@ export default function Home() {
         </SubHeading>
 
         <Heading dark className="text-center font-extrabold">
-          <SplitText text="Ancha" />
           <SplitText text="Revanth" />
+          <SplitText text="Ancha" />
         </Heading>
 
         <p className="text-center md:whitespace-pre-line">
