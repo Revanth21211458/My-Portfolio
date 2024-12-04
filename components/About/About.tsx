@@ -32,12 +32,12 @@ export default function About() {
 
         <div className="flex flex-col space-y-4 leading-relaxed md:flex-row md:space-x-12 md:space-y-0">
           <p className="w-full whitespace-pre-line md:w-1/2">
-            {`I am an undergrad at KLEF . At KLEF, Department of Computer Science and Engineering, I am a Undergraduate Research Fellow and advised by Prof. R. Venu Babu . I've also contributed to AI Policy at Politics for Impact working with parliamentarians and held a research internship at IIT Jammu and EY.`}
+            {`I am an undergrad at KLEF . At KLEF, Department of Computer Science and Engineering, I am a Undergraduate Research Fellow and advised by Prof. R. Venu Babu . I've also contributed to AI Policy at Politics for Impact working with parliamentarians and held a research internship at IIT Jammu and Data Analyst Intern at EY.`}
           </p>
 
           <div className="w-full md:w-1/2">
             Currently, I am a Machine Learning Engineer,{" "}
-            <span className="font-bold"> with a strong emphasis on frontend development</span>. On a
+            <span className="font-bold"> with a strong background in Data Engineering and Data Science</span>. On a
             daily basis, I work with a variety of technologies, including <MobileTechList />
             <TechList /> among others, in building and maintaining web
             applications and design systems —
